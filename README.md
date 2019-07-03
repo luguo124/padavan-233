@@ -22,27 +22,11 @@ centos 系统安装 Curl 方法: yum update -y && yum install curl -y
 备注：安装完成后，输入 v2ray 即可管理 V2Ray
 如果提示你的系统不支持此脚本，那么请尝试更换系统
 
-下面是此脚本的一些截图
 
-安装选项
-
-安装 V2Ray
-配置 Shadowsocks
-
-配置 Shadowsocks
-安装完成
-
-V2Ray 安装完成
-管理面板
-
-V2Ray 管理面板
 Telegram 专用代理
 如果你在使用 Telegram 的话，你可以配置一个 Telegram 的专用代理，这样来，在某些情况下你就不需要再开一个代理软件了。
 输入 v2ray tg 即可配置 TG 专用代理
-配置 Telegram MTProto
 
-配置Telegram MTProto
-Telegram MTProto 配置信息
 
 Telegram MTProto 配置信息
 快速管理
